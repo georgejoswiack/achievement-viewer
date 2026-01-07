@@ -1,0 +1,379 @@
+{
+  "appid": "2328760",
+  "name": "Pinball FX",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2328760/95a4add587fac74ba92f63151591ab6a1e2da5f6/header.jpg?t=1762521923",
+  "achievements": {
+    "ACHIEVEMENT_34": {
+      "name": " To boldly go…",
+      "description": "Reach the wizard mode on the Star Trek™ Pinball: Discovery Table.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/83bc023f37be14094fe134ba432cc2fe9dbd8c9b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/abb8e7c7dbf33999e3bf5138964dc14c41026ccb.jpg",
+      "hidden": false,
+      "group": "Pinball FX - Star Trek™ Pinball",
+      "percent": "1.0"
+    },
+    "ACHIEVEMENT_50": {
+      "name": "A Few More Steps",
+      "description": "Reach player level 75.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/cf65d9a72a812d1410958fd09ea1864807d3fc65.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/cc2577806e8eeb3b567707717dc6ba9b0678781b.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.9"
+    },
+    "ACHIEVEMENT_52": {
+      "name": "As you wish",
+      "description": "Complete the Kissing side mode on The Princess Bride Pinball table.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/6f5bb16988e8f45e0daf5de5fc4f19507f60e591.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/d4caa5f73e096be09a5c8ad73cb36803b3f75446.jpg",
+      "hidden": false,
+      "group": "Update 2",
+      "percent": "0.7"
+    },
+    "ACHIEVEMENT_42": {
+      "name": "Balanced Chakram",
+      "description": "Convert the ball into the Balanced Chakram on the Xena pinball table!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/031a52da2c2cf0c4c9dbe44aa4aa5abfd2400ac6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/5fc653c6cf4b305b6e88f3fca659eea03eec8110.jpg",
+      "hidden": false,
+      "group": "Pinball FX - Universal Pinball: TV Classics",
+      "percent": "0.9"
+    },
+    "ACHIEVEMENT_29": {
+      "name": "Ball Launched",
+      "description": "Play a game on any table.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/b13536dfba4f9748ce42869dbb1ed3232f291236.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/4a1ba263c408a69c1d69d745f35b68e00df0b15a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.6"
+    },
+    "ACHIEVEMENT_35": {
+      "name": "Battle of Cardassia",
+      "description": "Successfully defend Cardassia on the Star Trek™ Pinball: Deep Space Nine table.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/6733a927edf18903828b7eb034cdc1ea05414da6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/5e6375e03ff9f33793ff14e6d12e39569dda820d.jpg",
+      "hidden": false,
+      "group": "Pinball FX - Star Trek™ Pinball",
+      "percent": "1.0"
+    },
+    "ACHIEVEMENT_31": {
+      "name": "Catomic Bomb",
+      "description": "Experience Chaos Catified on the Exploding Kittens Pinball table.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/d15c3b665e481ea4f831156ee0b05ca03c9dfc03.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/cbc703e21b9d41b20c1aced6c6c66956c33e5bdf.jpg",
+      "hidden": false,
+      "group": "Pinball FX - Game Night Pinball Volume 1",
+      "percent": "1.0"
+    },
+    "ACHIEVEMENT_20": {
+      "name": "Challenge Accepted!",
+      "description": "Play all game modes on a table.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/f308d9bd5df0d669eea15ccb7e17b8118e19839a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/2ac2a1481c318d7e0eb0527ebc77b83224202f6d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "ACHIEVEMENT_10": {
+      "name": "Collect Them All",
+      "description": "Unlock all reward from a Season!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/c68e32b8ec72118243e7c1d79b3605e9406da9e8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/1a3787f98b1a632a47b973e25246dffef8b43ccd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "ACHIEVEMENT_07": {
+      "name": "Contender",
+      "description": "Post a score in any official event!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/100ca4d43e125c1488d6e0ee00c818c7f84cb35b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/47a99eb58fb27d744062e3892e6c64b950c86268.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.1"
+    },
+    "ACHIEVEMENT_43": {
+      "name": "Daybreak",
+      "description": "Complete the wizard mode on the Battlestar Galactica Pinball table.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/03a7caf883af514561a7b55ab1c331509b3d96fe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/d235b7d0c9aa4bb83c62ae6567fb298af9b894eb.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.8"
+    },
+    "ACHIEVEMENT_53": {
+      "name": "Destroy the Dam",
+      "description": "Perform a Super Skill Shot on the Goat Simulator Pinball table.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/17e5dfc2b536e2e6fec7e7d8e3a41a2079bd1872.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/539f85ee9da0ec15292d852e1e8924525e72d49e.jpg",
+      "hidden": false,
+      "group": "Update 2",
+      "percent": "0.7"
+    },
+    "ACHIEVEMENT_36": {
+      "name": "Did It for the Dowry",
+      "description": "Start the Princess multiball on Epic Quest by hitting the locker wheel 3 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/d1c6d34afa18c12e311cff5421d3cbe5b6773793.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/2253206728c352c27b4ef44edec095f7c2182bc7.jpg",
+      "hidden": false,
+      "group": "Pinball FX - Charity Pack",
+      "percent": "1.9"
+    },
+    "ACHIEVEMENT_22": {
+      "name": "Dress Code",
+      "description": "Customize your profile with a Badge, a Frame and a Background.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/3a93a404952fe6c352534fe66a857c4285613827.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/ca5435f381ce0f14f09f158c53b02a6b284eb44d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.4"
+    },
+    "ACHIEVEMENT_57": {
+      "name": "Earthshaker!",
+      "description": "Complete the zones and start the multiball on the Earthshaker!™ table!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/a4470b1ee177789c72b640c3ead4640594ba6694.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/2dc7fa5d4d842c2de0dd0cad456c328638fe8246.jpg",
+      "hidden": false,
+      "group": "Update 4",
+      "percent": "1.7"
+    },
+    "ACHIEVEMENT_39": {
+      "name": "End of Gloom",
+      "description": "Defeat the Gloom by completing The Void on the Gloomhaven™ Pinball table.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/96e9b9fe10f1d684b8e7be4c0d71bdad49bca38c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/b149d67d9f4f649f69394fd39f1aebb21a7cd32d.jpg",
+      "hidden": false,
+      "group": "Pinball FX - Game Night Pinball Volume 1",
+      "percent": "1.0"
+    },
+    "ACHIEVEMENT_12": {
+      "name": "First but not Last",
+      "description": "Unlock 1 table award!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/31f0ca76f5333aee3f9f444c9382258a0960f34b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/581e986223d88e4a58ff0ab04a0187e41ef0e783.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.5"
+    },
+    "ACHIEVEMENT_48": {
+      "name": "Getting The Hang Of It",
+      "description": "Reach player level 25.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/6fda8c7d076e78bf7baad0e993eaa4d16e01a546.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/7967462bfdb3b32b240ee1f3ac28e90fd9a82b10.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "2.6"
+    },
+    "ACHIEVEMENT_37": {
+      "name": "Glorious victory",
+      "description": "Repel the attack of the robber knights against Camelot on Excalibur!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/73b8fb9988d7ce165f980a097bd8272bc7cbe0d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/d20dd7a64c3fb75d5f4ef871546b20b1b222d418.jpg",
+      "hidden": false,
+      "group": "Pinball FX - Charity Pack",
+      "percent": "1.0"
+    },
+    "ACHIEVEMENT_46": {
+      "name": "Golden Boot Trophy",
+      "description": "Score 10 goals in a single match on the Super League Football table.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/9afa9a91a432f469ef41441c5e2236ac922126f5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/20c3bdaa7c6b3f2b2a7fbb59743e372bd91d8d70.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.8"
+    },
+    "ACHIEVEMENT_49": {
+      "name": "Halfway There",
+      "description": "Reach player level 50.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/9f235e5383012a8b7f7f095f3810f4f4716da284.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/9ac8a9d362415eeba95b1c9fac365de91e02b742.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.2"
+    },
+    "ACHIEVEMENT_59": {
+      "name": "Hidden Precision",
+      "description": "Score a secret skill shot on Tomb Raider Pinball: Secrets of Croft Manor.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/56dc29782d62bfd6b193cf597c076a2d0c220cc9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/8ac91d4033731b874d19eacfffd901aa48c0d68e.jpg",
+      "hidden": false,
+      "group": "Update 5",
+      "percent": "0.7"
+    },
+    "ACHIEVEMENT_56": {
+      "name": "I am the Black Knight!",
+      "description": "Spell BLACK and shoot the Skyway on the Black Knight™ 2000 pinball table.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/91875c07a47aeb26bdaa1c5eb0c2c7d1db0da16d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/547baf4be472da83a6c9f074a59b6749b61d5c3b.jpg",
+      "hidden": false,
+      "group": "Update 3",
+      "percent": "0.6"
+    },
+    "ACHIEVEMENT_21": {
+      "name": "I Found it!",
+      "description": "Unlock your first collectible item!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/b5da559b522efd25583233379c0cd173db70319d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/307ffa1ec798b5157896a16d20c6882835ce07d5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.4"
+    },
+    "ACHIEVEMENT_55": {
+      "name": "King of the Hill",
+      "description": "Defeat all riders and get Rank#1 in the motocross race on Banzai Run™.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/cac2914f1925ee7d5baa8024b276d2ef27bdacd7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/65efb300aa2359a19f0ccb76eac8f148d6914c44.jpg",
+      "hidden": false,
+      "group": "Update 3",
+      "percent": "0.7"
+    },
+    "ACHIEVEMENT_44": {
+      "name": "Knight Rider",
+      "description": "Complete all missions on the Knight Rider Pinball table.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/65f3e64c808a25071e185c3840c70847a9bda99d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/120ca307648dc12a8ae338e41f8ff014b4fcce28.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.9"
+    },
+    "ACHIEVEMENT_47": {
+      "name": "Leveling Up",
+      "description": "Reach player level 5.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/546c58a9ff8e2af6e74743041add0c338c1ee180.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/ebe33679091ff4c3a1462583ce0713ea67785d14.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "17.2"
+    },
+    "ACHIEVEMENT_61": {
+      "name": "Mastermind",
+      "description": "Solve every case in a single game on the WHO dunnit™ table.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/7192bc19a0b7bdaf572f5fd4bed1fa2bff955f3e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/da66ac0dbab832a4d52fbffb70c56a62795814f6.jpg",
+      "hidden": false,
+      "group": "Update 6",
+      "percent": "0.3"
+    },
+    "ACHIEVEMENT_51": {
+      "name": "Maxed Out",
+      "description": "Reach player level 100.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/f1785116af0139a8f9974659aa0cea8382dbaa30.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/3be9167c2d2d28d06a2c86efc29b349300463fed.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.8"
+    },
+    "ACHIEVEMENT_09": {
+      "name": "My Table, my Rules",
+      "description": "Create your own Tournament.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/9cfaae35e6ecee68d3e2f56dedc4be32e4e804c7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/1af90ca53cb99f2daa091a9eeb63e106d78b4b41.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "ACHIEVEMENT_19": {
+      "name": "Nine Zeroes",
+      "description": "Score 1,000,000,000 points in total playing your tables.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/78e8d48a09a74d421073090750731b8a67728998.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/f3251d89b9793f4f667397eddabe6615a0a2f199.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.6"
+    },
+    "ACHIEVEMENT_62": {
+      "name": "Now I see you!",
+      "description": "Lock balls and start Multiball 3 times on the PIN·BOT™ table in a single game.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/3322b181a3a5a0ad04578708afbf4250f48cdc2f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/2f3f6af9a68bcdb9fbc55f8de69715bd0e48b5fd.jpg",
+      "hidden": false,
+      "group": "Update 6",
+      "percent": "0.4"
+    },
+    "ACHIEVEMENT_63": {
+      "name": "Party Monster",
+      "description": "Score a Jackpot during Multi-Ball on the Elvira and the Party Monsters table.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/c5a491baef3773d1301869e82a70f6c753b98576.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/cd61a11b6495d1fae73b83a8b4507995dee472ac.jpg",
+      "hidden": false,
+      "group": "Update 7",
+      "percent": "0.5"
+    },
+    "ACHIEVEMENT_11": {
+      "name": "Shiny Memento",
+      "description": "Earn a Gold or Diamond Event Cup!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/d4f8d1dc6a36e38a3334ea1f020d95aebdaad54e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/30e47cdef9fc41c8a17cd72ef71de25d5c915921.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "ACHIEVEMENT_64": {
+      "name": "Six Screams Under",
+      "description": "Start all six Tales of Terror in a single game on the Scared Stiff table.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/36809701d9a1388c2dba6ca8999825d527df38ee.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/784955f7a7762d3bb5cbf8c641da7c4a4488249d.jpg",
+      "hidden": false,
+      "group": "Update 7",
+      "percent": "0.8"
+    },
+    "ACHIEVEMENT_58": {
+      "name": "Survivor, Legend, Icon",
+      "description": "Complete Survivor mode on Tomb Raider Pinball: Adventures of Lara Croft.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/f63df1b868de0732933be98ce257bf4037e48beb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/755f7c47a1e2930c402ae0d7581afa6ae85f03d4.jpg",
+      "hidden": false,
+      "group": "Update 5",
+      "percent": "0.4"
+    },
+    "ACHIEVEMENT_32": {
+      "name": "Terraformer",
+      "description": "Start the Wizard mode on Terraforming Mars Pinball.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/15d1142291a1fe0c85fc33d4d329f2d3da7b518f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/ab17a766859bf513a06fae5af98ce4d3bd6fd2fa.jpg",
+      "hidden": false,
+      "group": "Pinball FX - Game Night Pinball Volume 1",
+      "percent": "1.0"
+    },
+    "ACHIEVEMENT_33": {
+      "name": "The Captain",
+      "description": "Start building a new starship on the Star Trek™ Pinball: Kelvin Timeline table.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/bae516d1188fdfa62dbe8904c9e1a94181f1e1c4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/7cf52b051e8bae5b748fe031d450863d6369efd7.jpg",
+      "hidden": false,
+      "group": "Pinball FX - Star Trek™ Pinball",
+      "percent": "1.0"
+    },
+    "ACHIEVEMENT_38": {
+      "name": "The most beautiful Christmas",
+      "description": "Start the wizard mode on the A Charlie Brown Christmas™ Pinball table.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/ecc00b23c4d1f59793f5e2d53f8b93afd5a17c60.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/973d27278bd14d5acf8438fdd2a6a918477158f3.jpg",
+      "hidden": false,
+      "group": "Pinball FX - A Charlie Brown Christmas™ Pinball",
+      "percent": "1.0"
+    },
+    "ACHIEVEMENT_60": {
+      "name": "Tip-Top Driver",
+      "description": "Complete CAB and raise the Jackpot at least 3 times on the Taxi™ table.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/71c91e210c17e5e352f041e261de61d872899fac.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/946cb943b337551dd73c6ee620125b2245ea3084.jpg",
+      "hidden": false,
+      "group": "Update 6",
+      "percent": "0.8"
+    },
+    "ACHIEVEMENT_45": {
+      "name": "True Neural",
+      "description": "Make 100 Synchronous Shots on the Pacific Rim Pinball table.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/cc08d0e5332ec51654e4eeafb4364298434c3470.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/517fa0daecfc287dc3b07795b8efdae97648100c.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.0"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

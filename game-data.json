@@ -1,0 +1,1248 @@
+{
+  "last_updated": 1767818003,
+  "total_games": 2,
+  "games": [
+    {
+      "appid": "203680",
+      "info": {
+        "appid": "203680",
+        "name": "F1 RACE STARS™",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203680/header.jpg?t=1647013280",
+        "achievements": {
+          "22": {
+            "name": "Abu Dhabi Expert",
+            "description": "Win an Abu Dhabi event at 3,000cc (no teams)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/c8221b62bc148c251b7e67c6a251f29bc7f3b477.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/afa0d0062ba5aab5d658a706258e0771c6049459.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "7.9"
+          },
+          "34": {
+            "name": "Around the World",
+            "description": "Win an event on every track at 3,000cc (no teams)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/9f2c7f67e92efaa82c8b6e9918fb7713705d9fae.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/c1ba2d4b65d3fc3723c7f1211af1985a384291aa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.1"
+          },
+          "23": {
+            "name": "Australia Expert",
+            "description": "Win an Australia event at 3,000cc (no teams)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/92924927cdb29db49ce17534a131a58cb917337b.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/8de3804f6cf0c9298dad4bf0fd09c4fa4187f4fe.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "9.5"
+          },
+          "24": {
+            "name": "Belgium Expert",
+            "description": "Win a Belgium event at 3,000cc (no teams)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/2c9dc66be6ba07c78d6a91ae2366fb96844dea94.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/8c7b5ebc52b56d9b31e44be1d2b3fa9ab1659afb.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "14.1"
+          },
+          "52": {
+            "name": "Bingo!",
+            "description": "Use a power-up against every opponent on the track (globals not included)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/61e39619f8e7855ae1621bec54a1786e7e6ccecc.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/251a05d6af963925dc9837c61a5230080771f586.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "6.7"
+          },
+          "25": {
+            "name": "Brazil Expert",
+            "description": "Win a Brazil event at 3,000cc (no teams)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/c82f1f7aa92a4250034fb3537833981211e23487.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/c5a5c72f24137d3c33f726ea7061b30a750d605a.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "9.8"
+          },
+          "36": {
+            "name": "Bronze Time",
+            "description": "Earn a bronze Time Trial record on all tracks",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/2888b5322726147b9cd5156214d1a11f35b0576b.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/809cfd04398b86e5198b68892cc5930c6daac809.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.6"
+          },
+          "56": {
+            "name": "Canada Expert",
+            "description": "Win a Canada event at 3,000cc (no teams)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/737a3686af84f4530082b26d559fa361b13e3944.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/45a28593141c601054f2f151a6e815ae33611e26.jpg",
+            "hidden": false,
+            "group": "F1 Race Stars - Canada Track",
+            "percent": "2.3"
+          },
+          "53": {
+            "name": "Canadian Gold",
+            "description": "Earn a Gold Time Trial record on Canada",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/3c5c10e9c214fc13ff32c24fba5414b0edbda65c.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/db20a90f2c844157829562245163c35a2a83825b.jpg",
+            "hidden": false,
+            "group": "F1 Race Stars - Canada Track",
+            "percent": "1.5"
+          },
+          "8": {
+            "name": "Career 100%",
+            "description": "Complete 30 different championships in your career",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/e36e94e127ea24e14f6a38226b8e9f8cbc53d887.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/bcf0549c75fe84c24389550d96bb6b1374013e5e.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "2.9"
+          },
+          "5": {
+            "name": "Career 25%",
+            "description": "Complete 8 different championships in your career",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/530a411732ea746547745135bd0b6a9c3da927a1.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/3a7bc785f6defeb85df439ffed7b0349c05251f0.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "9.1"
+          },
+          "6": {
+            "name": "Career 50%",
+            "description": "Complete 15 different championships in your career",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/db8d6b01eefdc7b671992e4e3f437fa093710e49.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/acf62ef5dee5fb976becfb7ecb98d3ff2f9a19ce.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "5.9"
+          },
+          "7": {
+            "name": "Career 75%",
+            "description": "Complete 23 different championships in your career",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/1d6a79b300e8c7961ee6e66b357349b3ecfd8ace.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/5631b91f8159f844f9ff9a6953b8aacf69926d62.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.9"
+          },
+          "4": {
+            "name": "Career is GO!",
+            "description": "Complete the first championship of your career",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/635f8d854acfde4ae536cf2645ce2982c463537c.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/02d192a74fa933d45fdb86cbb3d441b54f637ef6.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "39.6"
+          },
+          "44": {
+            "name": "Causing Trouble",
+            "description": "Hit another driver after being eliminated",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/28ca24c3032ff8159732522d409d8b86f9e10ed6.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/755df00587e181c23ff906d482d9793e79ac1200.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "11.0"
+          },
+          "61": {
+            "name": "China Expert",
+            "description": "Win a China event at 3,000cc (no teams)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/507c7ad95743100f942c1cdf0b93313ebe198ac9.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/c5c1f2059d00255f85fc03c6c7f837ac078dcbb6.jpg",
+            "hidden": false,
+            "group": "F1 Race Stars - China Track",
+            "percent": "1.9"
+          },
+          "58": {
+            "name": "Chinese Gold",
+            "description": "Earn a Gold Time Trial record on China",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/2f33226d451b18c22f952eb159891d306ec14255.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/4bb05d5bc09636aaf20a4ab7b2d07ca49157fcb1.jpg",
+            "hidden": false,
+            "group": "F1 Race Stars - China Track",
+            "percent": "1.5"
+          },
+          "62": {
+            "name": "Dragon Dance",
+            "description": "Take the locked shortcut on China",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/82e901a60bfdaa7a81bc7ba8d2b813db53fc8c76.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/bb125ffd8c3ea8d90401f8aa982c7d20b0eb6256.jpg",
+            "hidden": false,
+            "group": "F1 Race Stars - China Track",
+            "percent": "2.3"
+          },
+          "46": {
+            "name": "Ecto-won",
+            "description": "Beat a friend's Time Trial lap",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/c73a873f2eea9197e2a36b15378a3007e41565b8.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/8e0f74e7fa5a142b9b7984cfd44b195a34d8be87.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.7"
+          },
+          "40": {
+            "name": "Exhibition Rush",
+            "description": "Earn 1,000 Exhibition points in under 5 seconds",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/5582d28d3acdc37b77ad433334061be3f4e3b2d6.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/bb03c0092eec3f4b0106cf3f21942ca8a2cbd9a9.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "8.0"
+          },
+          "12": {
+            "name": "Fish in a Barrel",
+            "description": "Use power-ups against 3 drivers who are within range of the safety car (globals not included)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/7e4c05aa01d1954332689567ababfee32b8e0c80.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/71d88229a1b69e70a7a0ac679b9ce03a64390b32.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "15.6"
+          },
+          "65": {
+            "name": "Fuel Hunter",
+            "description": "Collect 50 fuel cans on India",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/34c7bc289f517fab0cf525255a9643ad92e2e318.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/9423f0edb80eeb8625022e59abaaa3437bb2d7b5.jpg",
+            "hidden": false,
+            "group": "F1 Race Stars - India Track",
+            "percent": "1.4"
+          },
+          "14": {
+            "name": "Fully Automatic",
+            "description": "Hit the same driver three times with a 3x Ricochet Bubble",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/01eb0fce2e82db5653cc162aea7b08864b426e3e.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/837500c4cfbda978d3c15fdacb17cf7cc2dd9815.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "2.3"
+          },
+          "60": {
+            "name": "Gate Hunter",
+            "description": "Pass through 100 gates on China",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/27f8075aabe5c53fa0e92376fe7537f733a1f1d0.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/3db374b34e2deb1584ccc4aa8eecdcb2086ae7e0.jpg",
+            "hidden": false,
+            "group": "F1 Race Stars - China Track",
+            "percent": "1.4"
+          },
+          "27": {
+            "name": "Germany Expert",
+            "description": "Win a Germany event at 3,000cc (no teams)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/c329117b8f5fd969bb611e47c6d87ab1b8856c2c.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/baf5a2f07f41ccf3e6a994b96326ef5eb44396bc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "10.6"
+          },
+          "38": {
+            "name": "Gold Time",
+            "description": "Earn a gold Time Trial record on all tracks",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/6871c21ecdc33de5138840dc8ae2046ddaf8c6c7.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/ce301c31f1eee728e992d528edbc7c8d41f0ef1e.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.4"
+          },
+          "28": {
+            "name": "Great Britain Expert",
+            "description": "Win a Great Britain event at 3,000cc (no teams)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/29584e32a9b2cfb4373d7aace1b5bb294272ced4.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/3f6d36e107267d0d18ac8f1ab70fc41f3f3c7e5f.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "7.4"
+          },
+          "13": {
+            "name": "Heavyweight",
+            "description": "Affect 3 drivers with a single Pulse",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/73451032a7ad178a7829b9426d77d418941d542b.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/6e6d7af617c40cca22790871fa839751257fa6a3.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "29.1"
+          },
+          "66": {
+            "name": "India Expert",
+            "description": "Win an India event at 3,000cc (no teams)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/78132b6b62e098965c9a75ecec9534d3b4f44e4d.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/77053ee2c7cc585d1b970315789640535758ce6a.jpg",
+            "hidden": false,
+            "group": "F1 Race Stars - India Track",
+            "percent": "1.8"
+          },
+          "63": {
+            "name": "Indian Gold",
+            "description": "Earn a Gold Time Trial record on India",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/7c971141ec4da3004215c9879b2a322ff71fea5c.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/a4a04568735d81288fe4bd570e01f32794d1373f.jpg",
+            "hidden": false,
+            "group": "F1 Race Stars - India Track",
+            "percent": "1.5"
+          },
+          "11": {
+            "name": "Internet Famous",
+            "description": "Win an online event (no teams)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/5c932606d2db9394f27f87bf216eaa0ecde8c962.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/e45928ee2b0c1a73093d03e5c691219b66ccae82.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "12.8"
+          },
+          "29": {
+            "name": "Italy Expert",
+            "description": "Win an Italy event at 3,000cc (no teams)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/bc3908f7c7cf59efaa1f1476fc81a931da7d5bdd.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/b28d5cf73cb7b5f87dea76633f3ca3ef9f8f2d69.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "11.6"
+          },
+          "30": {
+            "name": "Japan Expert",
+            "description": "Win a Japan event at 3,000cc (no teams)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/90639a7dc17f3dc1947b3f38451f20bfd93e9864.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/c7c4786444ece602dee4af23f6e2a04cb0efe400.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "9.5"
+          },
+          "18": {
+            "name": "Jump Boost Expert",
+            "description": "Trigger 50 jump boosts",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/19c4908fd3ada4fdca40a235991352559e767b31.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/5c99a483177192b31017a96dbd0f7260e74b38af.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.5"
+          },
+          "48": {
+            "name": "King of King of the Screen",
+            "description": "Reach King of the Screen level 6",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/422cdcefae740826c6a370ba55ade396712766ab.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/77063e6653294b0552623a7e704493d825e02871.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.5"
+          },
+          "67": {
+            "name": "Lotus Garden",
+            "description": "Take the locked shortcut on India",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/cf5985d79ae13a9db37861acf511a92ccbbceba4.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/65dabd10ea8682c7ec357b8703743a33d1fe54d0.jpg",
+            "hidden": false,
+            "group": "F1 Race Stars - India Track",
+            "percent": "2.0"
+          },
+          "57": {
+            "name": "Maple Highway",
+            "description": "Take the locked shortcut on Canada",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/920f8d897b8c332220a69cb40392c0906fa4f8b3.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/1ede5b43dfb70aea2cdd6be6816892f7a8d774bf.jpg",
+            "hidden": false,
+            "group": "F1 Race Stars - Canada Track",
+            "percent": "2.0"
+          },
+          "31": {
+            "name": "Monaco Expert",
+            "description": "Win a Monaco event at 3,000cc (no teams)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/2ea6dce2200c07ae6f37c10cca2297b48f5714ec.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/6eaf8f55d92b62a4990fd21d8006b5154d80c35c.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "5.5"
+          },
+          "43": {
+            "name": "My House",
+            "description": "Own the whole track in Sector Snatch",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/ee58f88e71ca2cb4beb6d7283546be0df870cde8.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/30f40db51c25e926c7e7ef9815b269b6f29490ef.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.4"
+          },
+          "17": {
+            "name": "Nailed the Jump",
+            "description": "Trigger a jump boost",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/080bcc4991f798141de02905699979babb6a400c.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/de0ca9ebf960bc6a48bd867b24711d2cc026c28e.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "32.7"
+          },
+          "50": {
+            "name": "Pitmaster",
+            "description": "Repair in the pits 10 times",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/f2a64e4359e1a8f3330d9a0e503d16119e582516.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/7510ef4899f33b3161d0f7c8eaac9a548994397b.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "54.0"
+          },
+          "39": {
+            "name": "Player of Games",
+            "description": "Complete one event in each race mode",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/38272f205070bdb17cec563ba240859073c1b11e.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/1f7848fe0653a41c6e53b24c124a1d7fd5cf2934.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "6.7"
+          },
+          "47": {
+            "name": "Prince of the Screen",
+            "description": "Reach King of the Screen level 3",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/4511abe4fbe143ae0fc58d70231a028c4087a454.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/92370989737c9b1e952c3d3a47c86aead1613b09.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "5.0"
+          },
+          "35": {
+            "name": "Qualifying Lap",
+            "description": "Set a Time Trial record",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/1d4c43abf8eb1aec6a9aecd18d39c8b3ec4c78e9.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/1c5ad50db6c28f250b9329bb91e272d94a1ada8c.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "12.8"
+          },
+          "3": {
+            "name": "Red Carpet",
+            "description": "Take a locked shortcut",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/4fb2e3fc1571d167c7c6a2fecfd1400f3628e9ad.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/2f90ce381e28617aa3545410647739808c489ec1.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "12.5"
+          },
+          "54": {
+            "name": "Road Trip: Canada",
+            "description": "Win an online race on Canada (no teams)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/b96e905862af3d6982412d7b0f829b60deb7b83f.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/5e3dad4bc0045bd67172a0a0cd494ecdc8bb3a5e.jpg",
+            "hidden": false,
+            "group": "F1 Race Stars - Canada Track",
+            "percent": "1.6"
+          },
+          "59": {
+            "name": "Road Trip: China",
+            "description": "Win an online race on China (no teams)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/0c07811430553e48af48820e1761b7189ec5e386.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/2b9777f8f3d29308a1c95f5c0427b52b55d35087.jpg",
+            "hidden": false,
+            "group": "F1 Race Stars - China Track",
+            "percent": "1.4"
+          },
+          "64": {
+            "name": "Road Trip: India",
+            "description": "Win an online race on India (no teams)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/3e1670f0c4a0b75dc194715a5df7fa086a7fcec7.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/6e5d206c550944230ad699eda38d34a5b5e5beee.jpg",
+            "hidden": false,
+            "group": "F1 Race Stars - India Track",
+            "percent": "1.4"
+          },
+          "16": {
+            "name": "Scientific Method",
+            "description": "Make an impact with each type of power-up",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/9628c588de32b531a3e893515ce4cc173f20371c.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/daf0a9246a1328d64d9f9867583042895b953284.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "25.3"
+          },
+          "45": {
+            "name": "Shakedown",
+            "description": "Make a nearby driver drop 600 points in Trophy Chase",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/d0a23c9d60b347aa2e98cc37bc947c446f9cc8be.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/ba0afdc1d77cae110a0f51115844c92cc11e153f.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "7.4"
+          },
+          "9": {
+            "name": "Shelf Promotion",
+            "description": "Fill your career trophy cabinet",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/f4e0103d1ca8a7c88dbb04bf9c4f02fe2b309225.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/61aae16f3cbfb2ca6677eaf17f3016ce5048746d.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.1"
+          },
+          "21": {
+            "name": "Shortcut Expert",
+            "description": "Take every shortcut in the game",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/9753d93292ae15d57283a7612c4726f5acbe2faa.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/65c80aa1c7831ebe8b7ebe9c480ead74e3411ba8.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.3"
+          },
+          "37": {
+            "name": "Silver Time",
+            "description": "Earn a silver Time Trial record on all tracks",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/5b50ff05f6d1f0d36c2cc4de1781571c49993188.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/24b76309a7b919c793c5faca639da7468ad27b43.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.6"
+          },
+          "32": {
+            "name": "Singapore Expert",
+            "description": "Win a Singapore event at 3,000cc (no teams)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/9de4b014d061ee93ee476680c3c83e659bf59457.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/84dd8f5c160c9bc64adafaf40c4127264704d951.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "17.4"
+          },
+          "20": {
+            "name": "Slipstream Expert",
+            "description": "Slipstream past 50 drivers",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/08ca6954b9e0c5395d9b396e8431ceae5814984e.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/b200650586a3ed9d516e3ec030c6c9cae0fe9e98.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "43.8"
+          },
+          "19": {
+            "name": "Slipstreamer",
+            "description": "Slipstream past a driver",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/79070f810f7a0340adeec3d0d4f9070fc72966d5.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/34e8982f3126c3ad06a93c82a4d5537c633710c2.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "88.8"
+          },
+          "49": {
+            "name": "Social Butterfly",
+            "description": "Complete one event with each constructor",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/c5b20130d5fb789cce17cdc3d94946d62dd5a513.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/aa302d2e34621035f6a190c8de253746a3122e94.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "2.6"
+          },
+          "2": {
+            "name": "Taste of Victory",
+            "description": "Win an event (no teams)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/607a43ccd9e2e6f9eb36f506eaa6e71e8791c124.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/c6ef408b94adb003c1b0298a9975853528c6d09d.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "65.6"
+          },
+          "51": {
+            "name": "They See You Rollin'",
+            "description": "Earn 3,141 badges",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/e3a5770d3f8555ad6d7948d21bd7e506b4fc62e7.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/a1566bb3b4091b33e05b1b0f9cc77b3bbd8365c8.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "5.9"
+          },
+          "55": {
+            "name": "Trophy Hunter",
+            "description": "Collect 200 trophies on Canada",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/dfac1d7027fbc2df66487bd87ee527e621ccbfeb.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/fbdca51b27d029e6d4fd9aa90cef3b0abc59f6f1.jpg",
+            "hidden": false,
+            "group": "F1 Race Stars - Canada Track",
+            "percent": "1.4"
+          },
+          "33": {
+            "name": "USA Expert",
+            "description": "Win a USA event at 3,000cc (no teams)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/9254b60c048ec6a489880316ab188a8a49336570.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/7afd6d6b8b62c9abd4d74f90bed1dd4cf0bda426.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "7.6"
+          },
+          "42": {
+            "name": "Vapours",
+            "description": "Win a Refuel event with an empty tank (no teams)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/9f044154c147b45832551b8c74e4de5d66ec46b0.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/f888df7f9710d93d237abc580a4eeded747291e6.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "2.3"
+          },
+          "15": {
+            "name": "Whoops!",
+            "description": "Hit yourself with your own Ricochet Bubble",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/f6f6f7618175422d2a31c4ff87ee5b88501a9aa3.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/b24cc3c8ce471cd28174fcc68a7dbb575ab3c6c0.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "53.6"
+          },
+          "10": {
+            "name": "Your Friends are Cool",
+            "description": "Complete a championship in your career in a splitscreen team",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/b0c2c15a45f566f24f4f473982dc8549b3a7540d.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/203680/e6a4fb7b13104179ff4a03fb64f5f6faf01bc05a.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.7"
+          }
+        },
+        "platform": null,
+        "blacklist": [],
+        "uses_db": true
+      },
+      "achievements": {
+        "10": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "11": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "12": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "13": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "14": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "15": {
+          "earned": true,
+          "earned_time": 1767756851
+        },
+        "16": {
+          "earned": true,
+          "earned_time": 1767760414
+        },
+        "17": {
+          "earned": true,
+          "earned_time": 1767688880
+        },
+        "18": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "19": {
+          "earned": true,
+          "earned_time": 1767688799
+        },
+        "2": {
+          "earned": true,
+          "earned_time": 1767689131
+        },
+        "20": {
+          "earned": true,
+          "earned_time": 1767688799
+        },
+        "21": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "22": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "23": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "24": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "25": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "27": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "28": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "29": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "3": {
+          "earned": true,
+          "earned_time": 1767688956
+        },
+        "30": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "31": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "32": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "33": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "34": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "35": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "36": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "37": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "38": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "39": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "4": {
+          "earned": true,
+          "earned_time": 1767760424
+        },
+        "40": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "42": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "43": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "44": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "45": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "46": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "47": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "48": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "49": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "5": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "50": {
+          "earned": true,
+          "earned_time": 1767688943
+        },
+        "51": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "52": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "53": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "54": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "55": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "56": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "57": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "58": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "59": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "6": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "60": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "61": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "62": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "63": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "64": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "65": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "66": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "67": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "68": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "69": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "7": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "70": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "8": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "9": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
+      "appid": "2328760",
+      "info": {
+        "appid": "2328760",
+        "name": "Pinball FX",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2328760/95a4add587fac74ba92f63151591ab6a1e2da5f6/header.jpg?t=1762521923",
+        "achievements": {
+          "ACHIEVEMENT_34": {
+            "name": " To boldly go…",
+            "description": "Reach the wizard mode on the Star Trek™ Pinball: Discovery Table.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/83bc023f37be14094fe134ba432cc2fe9dbd8c9b.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/abb8e7c7dbf33999e3bf5138964dc14c41026ccb.jpg",
+            "hidden": false,
+            "group": "Pinball FX - Star Trek™ Pinball",
+            "percent": "1.0"
+          },
+          "ACHIEVEMENT_50": {
+            "name": "A Few More Steps",
+            "description": "Reach player level 75.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/cf65d9a72a812d1410958fd09ea1864807d3fc65.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/cc2577806e8eeb3b567707717dc6ba9b0678781b.jpg",
+            "hidden": false,
+            "group": "Update 1",
+            "percent": "0.9"
+          },
+          "ACHIEVEMENT_52": {
+            "name": "As you wish",
+            "description": "Complete the Kissing side mode on The Princess Bride Pinball table.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/6f5bb16988e8f45e0daf5de5fc4f19507f60e591.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/d4caa5f73e096be09a5c8ad73cb36803b3f75446.jpg",
+            "hidden": false,
+            "group": "Update 2",
+            "percent": "0.7"
+          },
+          "ACHIEVEMENT_42": {
+            "name": "Balanced Chakram",
+            "description": "Convert the ball into the Balanced Chakram on the Xena pinball table!",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/031a52da2c2cf0c4c9dbe44aa4aa5abfd2400ac6.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/5fc653c6cf4b305b6e88f3fca659eea03eec8110.jpg",
+            "hidden": false,
+            "group": "Pinball FX - Universal Pinball: TV Classics",
+            "percent": "0.9"
+          },
+          "ACHIEVEMENT_29": {
+            "name": "Ball Launched",
+            "description": "Play a game on any table.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/b13536dfba4f9748ce42869dbb1ed3232f291236.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/4a1ba263c408a69c1d69d745f35b68e00df0b15a.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "83.6"
+          },
+          "ACHIEVEMENT_35": {
+            "name": "Battle of Cardassia",
+            "description": "Successfully defend Cardassia on the Star Trek™ Pinball: Deep Space Nine table.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/6733a927edf18903828b7eb034cdc1ea05414da6.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/5e6375e03ff9f33793ff14e6d12e39569dda820d.jpg",
+            "hidden": false,
+            "group": "Pinball FX - Star Trek™ Pinball",
+            "percent": "1.0"
+          },
+          "ACHIEVEMENT_31": {
+            "name": "Catomic Bomb",
+            "description": "Experience Chaos Catified on the Exploding Kittens Pinball table.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/d15c3b665e481ea4f831156ee0b05ca03c9dfc03.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/cbc703e21b9d41b20c1aced6c6c66956c33e5bdf.jpg",
+            "hidden": false,
+            "group": "Pinball FX - Game Night Pinball Volume 1",
+            "percent": "1.0"
+          },
+          "ACHIEVEMENT_20": {
+            "name": "Challenge Accepted!",
+            "description": "Play all game modes on a table.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/f308d9bd5df0d669eea15ccb7e17b8118e19839a.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/2ac2a1481c318d7e0eb0527ebc77b83224202f6d.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "4.9"
+          },
+          "ACHIEVEMENT_10": {
+            "name": "Collect Them All",
+            "description": "Unlock all reward from a Season!",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/c68e32b8ec72118243e7c1d79b3605e9406da9e8.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/1a3787f98b1a632a47b973e25246dffef8b43ccd.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "2.7"
+          },
+          "ACHIEVEMENT_07": {
+            "name": "Contender",
+            "description": "Post a score in any official event!",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/100ca4d43e125c1488d6e0ee00c818c7f84cb35b.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/47a99eb58fb27d744062e3892e6c64b950c86268.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "10.1"
+          },
+          "ACHIEVEMENT_43": {
+            "name": "Daybreak",
+            "description": "Complete the wizard mode on the Battlestar Galactica Pinball table.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/03a7caf883af514561a7b55ab1c331509b3d96fe.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/d235b7d0c9aa4bb83c62ae6567fb298af9b894eb.jpg",
+            "hidden": false,
+            "group": "Update 1",
+            "percent": "0.8"
+          },
+          "ACHIEVEMENT_53": {
+            "name": "Destroy the Dam",
+            "description": "Perform a Super Skill Shot on the Goat Simulator Pinball table.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/17e5dfc2b536e2e6fec7e7d8e3a41a2079bd1872.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/539f85ee9da0ec15292d852e1e8924525e72d49e.jpg",
+            "hidden": false,
+            "group": "Update 2",
+            "percent": "0.7"
+          },
+          "ACHIEVEMENT_36": {
+            "name": "Did It for the Dowry",
+            "description": "Start the Princess multiball on Epic Quest by hitting the locker wheel 3 times.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/d1c6d34afa18c12e311cff5421d3cbe5b6773793.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/2253206728c352c27b4ef44edec095f7c2182bc7.jpg",
+            "hidden": false,
+            "group": "Pinball FX - Charity Pack",
+            "percent": "1.9"
+          },
+          "ACHIEVEMENT_22": {
+            "name": "Dress Code",
+            "description": "Customize your profile with a Badge, a Frame and a Background.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/3a93a404952fe6c352534fe66a857c4285613827.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/ca5435f381ce0f14f09f158c53b02a6b284eb44d.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "13.4"
+          },
+          "ACHIEVEMENT_57": {
+            "name": "Earthshaker!",
+            "description": "Complete the zones and start the multiball on the Earthshaker!™ table!",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/a4470b1ee177789c72b640c3ead4640594ba6694.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/2dc7fa5d4d842c2de0dd0cad456c328638fe8246.jpg",
+            "hidden": false,
+            "group": "Update 4",
+            "percent": "1.7"
+          },
+          "ACHIEVEMENT_39": {
+            "name": "End of Gloom",
+            "description": "Defeat the Gloom by completing The Void on the Gloomhaven™ Pinball table.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/96e9b9fe10f1d684b8e7be4c0d71bdad49bca38c.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/b149d67d9f4f649f69394fd39f1aebb21a7cd32d.jpg",
+            "hidden": false,
+            "group": "Pinball FX - Game Night Pinball Volume 1",
+            "percent": "1.0"
+          },
+          "ACHIEVEMENT_12": {
+            "name": "First but not Last",
+            "description": "Unlock 1 table award!",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/31f0ca76f5333aee3f9f444c9382258a0960f34b.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/581e986223d88e4a58ff0ab04a0187e41ef0e783.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "18.5"
+          },
+          "ACHIEVEMENT_48": {
+            "name": "Getting The Hang Of It",
+            "description": "Reach player level 25.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/6fda8c7d076e78bf7baad0e993eaa4d16e01a546.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/7967462bfdb3b32b240ee1f3ac28e90fd9a82b10.jpg",
+            "hidden": false,
+            "group": "Update 1",
+            "percent": "2.6"
+          },
+          "ACHIEVEMENT_37": {
+            "name": "Glorious victory",
+            "description": "Repel the attack of the robber knights against Camelot on Excalibur!",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/73b8fb9988d7ce165f980a097bd8272bc7cbe0d4.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/d20dd7a64c3fb75d5f4ef871546b20b1b222d418.jpg",
+            "hidden": false,
+            "group": "Pinball FX - Charity Pack",
+            "percent": "1.0"
+          },
+          "ACHIEVEMENT_46": {
+            "name": "Golden Boot Trophy",
+            "description": "Score 10 goals in a single match on the Super League Football table.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/9afa9a91a432f469ef41441c5e2236ac922126f5.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/20c3bdaa7c6b3f2b2a7fbb59743e372bd91d8d70.jpg",
+            "hidden": false,
+            "group": "Update 1",
+            "percent": "0.8"
+          },
+          "ACHIEVEMENT_49": {
+            "name": "Halfway There",
+            "description": "Reach player level 50.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/9f235e5383012a8b7f7f095f3810f4f4716da284.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/9ac8a9d362415eeba95b1c9fac365de91e02b742.jpg",
+            "hidden": false,
+            "group": "Update 1",
+            "percent": "1.2"
+          },
+          "ACHIEVEMENT_59": {
+            "name": "Hidden Precision",
+            "description": "Score a secret skill shot on Tomb Raider Pinball: Secrets of Croft Manor.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/56dc29782d62bfd6b193cf597c076a2d0c220cc9.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/8ac91d4033731b874d19eacfffd901aa48c0d68e.jpg",
+            "hidden": false,
+            "group": "Update 5",
+            "percent": "0.7"
+          },
+          "ACHIEVEMENT_56": {
+            "name": "I am the Black Knight!",
+            "description": "Spell BLACK and shoot the Skyway on the Black Knight™ 2000 pinball table.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/91875c07a47aeb26bdaa1c5eb0c2c7d1db0da16d.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/547baf4be472da83a6c9f074a59b6749b61d5c3b.jpg",
+            "hidden": false,
+            "group": "Update 3",
+            "percent": "0.6"
+          },
+          "ACHIEVEMENT_21": {
+            "name": "I Found it!",
+            "description": "Unlock your first collectible item!",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/b5da559b522efd25583233379c0cd173db70319d.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/307ffa1ec798b5157896a16d20c6882835ce07d5.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "44.4"
+          },
+          "ACHIEVEMENT_55": {
+            "name": "King of the Hill",
+            "description": "Defeat all riders and get Rank#1 in the motocross race on Banzai Run™.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/cac2914f1925ee7d5baa8024b276d2ef27bdacd7.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/65efb300aa2359a19f0ccb76eac8f148d6914c44.jpg",
+            "hidden": false,
+            "group": "Update 3",
+            "percent": "0.7"
+          },
+          "ACHIEVEMENT_44": {
+            "name": "Knight Rider",
+            "description": "Complete all missions on the Knight Rider Pinball table.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/65f3e64c808a25071e185c3840c70847a9bda99d.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/120ca307648dc12a8ae338e41f8ff014b4fcce28.jpg",
+            "hidden": false,
+            "group": "Update 1",
+            "percent": "0.9"
+          },
+          "ACHIEVEMENT_47": {
+            "name": "Leveling Up",
+            "description": "Reach player level 5.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/546c58a9ff8e2af6e74743041add0c338c1ee180.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/ebe33679091ff4c3a1462583ce0713ea67785d14.jpg",
+            "hidden": false,
+            "group": "Update 1",
+            "percent": "17.2"
+          },
+          "ACHIEVEMENT_61": {
+            "name": "Mastermind",
+            "description": "Solve every case in a single game on the WHO dunnit™ table.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/7192bc19a0b7bdaf572f5fd4bed1fa2bff955f3e.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/da66ac0dbab832a4d52fbffb70c56a62795814f6.jpg",
+            "hidden": false,
+            "group": "Update 6",
+            "percent": "0.3"
+          },
+          "ACHIEVEMENT_51": {
+            "name": "Maxed Out",
+            "description": "Reach player level 100.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/f1785116af0139a8f9974659aa0cea8382dbaa30.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/3be9167c2d2d28d06a2c86efc29b349300463fed.jpg",
+            "hidden": false,
+            "group": "Update 1",
+            "percent": "0.8"
+          },
+          "ACHIEVEMENT_09": {
+            "name": "My Table, my Rules",
+            "description": "Create your own Tournament.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/9cfaae35e6ecee68d3e2f56dedc4be32e4e804c7.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/1af90ca53cb99f2daa091a9eeb63e106d78b4b41.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.9"
+          },
+          "ACHIEVEMENT_19": {
+            "name": "Nine Zeroes",
+            "description": "Score 1,000,000,000 points in total playing your tables.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/78e8d48a09a74d421073090750731b8a67728998.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/f3251d89b9793f4f667397eddabe6615a0a2f199.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "13.6"
+          },
+          "ACHIEVEMENT_62": {
+            "name": "Now I see you!",
+            "description": "Lock balls and start Multiball 3 times on the PIN·BOT™ table in a single game.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/3322b181a3a5a0ad04578708afbf4250f48cdc2f.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/2f3f6af9a68bcdb9fbc55f8de69715bd0e48b5fd.jpg",
+            "hidden": false,
+            "group": "Update 6",
+            "percent": "0.4"
+          },
+          "ACHIEVEMENT_63": {
+            "name": "Party Monster",
+            "description": "Score a Jackpot during Multi-Ball on the Elvira and the Party Monsters table.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/c5a491baef3773d1301869e82a70f6c753b98576.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/cd61a11b6495d1fae73b83a8b4507995dee472ac.jpg",
+            "hidden": false,
+            "group": "Update 7",
+            "percent": "0.5"
+          },
+          "ACHIEVEMENT_11": {
+            "name": "Shiny Memento",
+            "description": "Earn a Gold or Diamond Event Cup!",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/d4f8d1dc6a36e38a3334ea1f020d95aebdaad54e.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/30e47cdef9fc41c8a17cd72ef71de25d5c915921.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.8"
+          },
+          "ACHIEVEMENT_64": {
+            "name": "Six Screams Under",
+            "description": "Start all six Tales of Terror in a single game on the Scared Stiff table.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/36809701d9a1388c2dba6ca8999825d527df38ee.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/784955f7a7762d3bb5cbf8c641da7c4a4488249d.jpg",
+            "hidden": false,
+            "group": "Update 7",
+            "percent": "0.8"
+          },
+          "ACHIEVEMENT_58": {
+            "name": "Survivor, Legend, Icon",
+            "description": "Complete Survivor mode on Tomb Raider Pinball: Adventures of Lara Croft.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/f63df1b868de0732933be98ce257bf4037e48beb.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/755f7c47a1e2930c402ae0d7581afa6ae85f03d4.jpg",
+            "hidden": false,
+            "group": "Update 5",
+            "percent": "0.4"
+          },
+          "ACHIEVEMENT_32": {
+            "name": "Terraformer",
+            "description": "Start the Wizard mode on Terraforming Mars Pinball.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/15d1142291a1fe0c85fc33d4d329f2d3da7b518f.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/ab17a766859bf513a06fae5af98ce4d3bd6fd2fa.jpg",
+            "hidden": false,
+            "group": "Pinball FX - Game Night Pinball Volume 1",
+            "percent": "1.0"
+          },
+          "ACHIEVEMENT_33": {
+            "name": "The Captain",
+            "description": "Start building a new starship on the Star Trek™ Pinball: Kelvin Timeline table.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/bae516d1188fdfa62dbe8904c9e1a94181f1e1c4.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/7cf52b051e8bae5b748fe031d450863d6369efd7.jpg",
+            "hidden": false,
+            "group": "Pinball FX - Star Trek™ Pinball",
+            "percent": "1.0"
+          },
+          "ACHIEVEMENT_38": {
+            "name": "The most beautiful Christmas",
+            "description": "Start the wizard mode on the A Charlie Brown Christmas™ Pinball table.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/ecc00b23c4d1f59793f5e2d53f8b93afd5a17c60.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/973d27278bd14d5acf8438fdd2a6a918477158f3.jpg",
+            "hidden": false,
+            "group": "Pinball FX - A Charlie Brown Christmas™ Pinball",
+            "percent": "1.0"
+          },
+          "ACHIEVEMENT_60": {
+            "name": "Tip-Top Driver",
+            "description": "Complete CAB and raise the Jackpot at least 3 times on the Taxi™ table.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/71c91e210c17e5e352f041e261de61d872899fac.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/946cb943b337551dd73c6ee620125b2245ea3084.jpg",
+            "hidden": false,
+            "group": "Update 6",
+            "percent": "0.8"
+          },
+          "ACHIEVEMENT_45": {
+            "name": "True Neural",
+            "description": "Make 100 Synchronous Shots on the Pacific Rim Pinball table.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/cc08d0e5332ec51654e4eeafb4364298434c3470.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2328760/517fa0daecfc287dc3b07795b8efdae97648100c.jpg",
+            "hidden": false,
+            "group": "Update 1",
+            "percent": "1.0"
+          }
+        },
+        "platform": null,
+        "blacklist": [],
+        "uses_db": false
+      },
+      "achievements": {}
+    }
+  ]
+}
